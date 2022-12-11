@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chidiebereibiam&label=Profile%20views&color=0e75b6&style=flat" alt="chidiebereibiam" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@mhiztaflash" target="blank"><img src="https://img.shields.io/twitter/follow/mhizta_flash?logo=twitter&style=for-the-badge" alt="@mhiztaflash" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@chidiebereOI" target="blank"><img src="https://img.shields.io/twitter/follow/chidiebereOI?logo=twitter&style=for-the-badge" alt="@chidiebereOI" /></a> </p>
 
 - 🌱 I’m currently learning **Django Rest Framework**
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@mhizta_flash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhizta_flash" height="30" width="40" /></a>
+<a href="https://twitter.com/@chidiebereOI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhizta_flash" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chidiebereibiam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chidiebereibiam" height="30" width="40" /></a>
 </p>
 
