@@ -40,7 +40,7 @@ or <a href="mailto:chidiebereorjiibiam7@gmail.com"><b>email</b></a> me
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 📝 You can check out my portfolio on [Porfolio](https://chidiebere.up.railway.app)
 
 - 💬 Ask me about **AWS, django, DRF, python, mongoDB**
 
