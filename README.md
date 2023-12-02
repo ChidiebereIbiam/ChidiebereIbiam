@@ -50,7 +50,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=chidiebereibiam&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chidiebereibiam&theme=dark&hide_border=false" /> 
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=chidiebereibiam&theme=dark" alt="GitHub Streak" /></a>
 </td>
 
 <td width="50%" align="center">
@@ -84,7 +84,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,css,discord,docker,dynamodb,django,djangorestframework,github,html,java,js,linux,md,mongodb,mysql,postman,py,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,css,discord,docker,dynamodb,django,drf,github,html,java,js,linux,md,mongodb,mysql,postman,py,vscode&perline=14" />
   </a>
 </p>
 
