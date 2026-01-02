@@ -1,125 +1,76 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Chidiebere</h1></summary>
-  </ul>
-</div>
+<!-- HEADER -->
 <div align="center">
-
-You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/chidiebereibiam/chidiebereibiam/issues/new"><b>here</b></a><br>
-or <a href="mailto:chidiebereorjiibiam7@gmail.com"><b>email</b></a> me
-
-<i>Happy Coding!</i> 😊
-
+  <h1>👋 Hi, I'm Chidiebere Ibiam</h1>
+  <p>Software Engineer | Backend & Full-Stack Systems | Python, Django, AI (RAG, LangChain)</p>
 </div>
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+---
 
+## 🚀 About Me
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
+I’m a software engineer focused on building **production-grade platforms** and **scalable systems**.  
+I design, build, and operate backend and full-stack solutions used in real-world environments  from healthcare systems to AI-driven infrastructure.
 
+I love working at the intersection of **backend engineering**, **cloud infrastructure**, and **applied AI**.
 
-<!--Intro start-->
-- 🔭 I’m currently working on **AWS, Django, Django Rest Framework, Python, MongoDB**
+📌 Currently building backend systems with Python, Django, DRF, LangChain, and cloud-native deployments.
 
-- 🌱 I’m currently learning **Machine Learning and AI**
+---
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+## 🔭 Projects & Production Systems
 
-- 📝 You can check out my portfolio on [Porfolio](https://chidiebere.up.railway.app)
+Below are some of the platforms I’ve built and deployed in production:
 
-- 💬 Ask me about **AWS, django, DRF, python, mongoDB**
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🔗 **[CashPay Clinics](https://cashpayclinics.com/)** | Secure healthcare platform with payment and clinic workflows | Python · Django · PostgreSQL · Cloud |
+| 🔗 **[3AS Therapy Services](https://3astherapyservices.com/)** | Therapy services and scheduling platform | Full-Stack · Django · React |
+| 🔗 **[TaskArise](https://www.taskarise.com/)** | Workflow & task management system | API Design · Backend |
+| 🔗 **[247 Digital Hub](https://247digitalhub.com/)** | Digital services platform with scalable backend | Cloud Deployment |
+| 🔗 **[CropShore](https://cropshore.com/)** | Agriculture tech platform connecting stakeholders | Backend Systems |
+| 🔗 **[Devotion Media Concept](https://devotionmediaconcept.com/)** | Media site with clean backend delivery | Web Platform |
+| 🔗 **[Liberty Ekklesia](https://libertyekklesia.org/)** | Faith community platform with structured backend | Full-Stack |
+| 🔗 **[HyperCodes Tech](http://hypercodestech.com/)** | Technology portfolio site | Web Deployment |
 
-- 📫 Feel free to reach me out **chidiebereorjiibiam7@gmail.com**
+---
 
-<!--Intro end-->
+## 🛠️ Tech Stack
 
-
-
-<!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=chidiebereibiam&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=chidiebereibiam&theme=dark" alt="GitHub Streak" /></a>
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chidiebereibiam&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=chidiebereibiam&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,css,discord,docker,dynamodb,django,docker,git,github,html,js,linux,md,mongodb,mysql,postgres,postman,py,sqlite,vscode&perline=14" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,django,drf,react,postgres,mongodb,redis,aws,docker,git,github,linux,websocket,langchain" />
 </p>
 
+**Primary Skills:**
+- 🐍 Backend: Python · Django · Django REST Framework  
+- 🚀 APIs & Systems: REST · WebSockets · Scalable Architecture  
+- ☁️ Cloud & DevOps: AWS · Docker · CI/CD  
+- 🤖 AI & Data: LangChain · RAG Pipelines · Semantic Search  
+- 🗄️ Databases: PostgreSQL · MongoDB · Redis  
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
+---
 
-<!--icons and links-->
+## 📊 GitHub Stats
+
 <p align="center">
-<a href="https://www.linkedin.com/in/chidiebereibiam/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/chidiebereOI" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=chidiebereibiam&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chidiebereibiam&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
+---
 
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=chidiebereibiam&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
+## 🤝 Connect With Me
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <a href="https://www.linkedin.com/in/chidiebereibiam/" target="_blank">LinkedIn</a> •
+  <a href="https://twitter.com/chidiebereibiam" target="_blank">Twitter</a> •
+  <a href="mailto:chidiebereorjiibiam7@gmail.com">Email</a> •
+  <a href="https://chidiebere.up.railway.app/static/data/ChidiebereIbiam%20Resume.pdf">Resume</a>
+</p>
+
+---
+
+## 📫 Let’s Build
+
+I’m open to backend, full-stack, and applied AI engineering roles — especially where I can design and scale systems used by real users.
+
+Let’s connect!
