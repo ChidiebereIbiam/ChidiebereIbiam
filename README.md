@@ -51,10 +51,8 @@ Below are some of the platforms I’ve built and deployed in production:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chidiebereibiam&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chidiebereibiam&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=synthwave&fontFamily=&preferLogin=false">    <img  alt="chidiebereibiam's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/chidiebereibiam?cardType=octocat&theme=synthwave&fontFamily=&preferLogin=false" />  </a>
+
 
 ---
 
